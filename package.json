@@ -1,0 +1,19 @@
+{
+  "name": "random-keys",
+  "version": "1.0.0",
+  "description": "It returns random keys to the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueHTML2/random-keys.git"
+  },
+  "author": "JosueHTML2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosueHTML2/random-keys/issues"
+  },
+  "homepage": "https://github.com/JosueHTML2/random-keys#readme"
+}
