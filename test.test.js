@@ -1,3 +1,6 @@
 var randomKeys = require("./index");
 
-console.log(randomKeys.default({ length: 24, chars: ["012345678", "9abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"], onlyUpperCase: true }));
+console.log(randomKeys.randomKeys({ 
+    keyLength: 6,
+    chars: ["A", "2", "3","D"]
+ }));
