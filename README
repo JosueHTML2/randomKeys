@@ -1,9 +1,0 @@
-# Random keys
-
-## How to use 
-
-```js
-var random_keys_function = require("randomKeys").default;
-
-
-```
